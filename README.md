@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working As ** Junior DevOPs Engineer**
+- 🔭 I’m currently working As **Junior DevOPs Engineer**
 
 - 🌱 I’m currently learning **Terraform**
 
