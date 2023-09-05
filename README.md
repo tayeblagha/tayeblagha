@@ -5,11 +5,11 @@
 
 
 
-- 🔭 I’m currently working on **End of Study devops project**
+- 🔭 I’m currently working on *Junior DevOPs Engineer**
 
-- 🌱 I’m currently learning **Gitlab CICD, Jenkins, Kubernates**
+- 🌱 I’m currently learning **Terraform**
 
-- 💬 Ask me about **Automation, Docker, Git, Networks and Security**
+- 💬 Ask me about **Automation, Networks and Security**
 
 - 📫 How to reach me **tayeblagha@gmail.com**
 
