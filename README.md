@@ -1,4 +1,3 @@
-<img src="https://afourtech.com/wp-content/uploads/2020/09/2220.jpg" height="200" width="1000">
 <h1 align="center">Hi 👋, I'm Tayeb Lagha</h1>
 <img align="right" width="400" alt="Devops" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif" >
 
