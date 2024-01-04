@@ -1,15 +1,10 @@
 <img src="https://afourtech.com/wp-content/uploads/2020/09/2220.jpg" height="200" width="1000">
 <h1 align="center">Hi 👋, I'm Tayeb Lagha</h1>
-<h3 align="center">A passionate Devops engineer</h3>
 <img align="right" width="400" alt="Devops" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif" >
 
 
 
-- 🔭 I’m currently working As **Junior DevOPs Engineer**
 
-- 💬 Ask me about **Automation, Networks and Security**
-
-- 📫 How to reach me **tayeblagha@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
